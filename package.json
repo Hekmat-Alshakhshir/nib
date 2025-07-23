@@ -8,7 +8,7 @@
     "url": "git://github.com/visionmedia/nib.git"
   },
   "dependencies": {
-    "stylus": "github:Hekmat-Alshakhshir/stylus#master-2"
+    "stylus": "github:Hekmat-Alshakhshir/stylus#master"
   },
   "devDependencies": {
     "connect": "1.x",
