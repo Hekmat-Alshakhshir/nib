@@ -1,7 +1,7 @@
 {
-  "name": "almosafer-nib",
+  "name": "nib",
   "description": "Stylus mixins and utilities",
-  "version": "1.0.0",
+  "version": "1.0.0-almosafer",
   "license": "MIT",
   "repository": {
     "type": "git",
